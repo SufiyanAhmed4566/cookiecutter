@@ -1,4 +1,4 @@
-"""cookiecutter distutils configuration.""
+"""cookiecutter distutils configuration.""" 
 
 from pathlib import Path
 
